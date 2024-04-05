@@ -1,0 +1,105 @@
+"Respring is required" = "Respring gerekli";
+"Cancel" = "İptal";
+"Respring" = "Respring";
+
+"Settings" = "Ayarlar";
+"SETTINGS_DESC" = "Bir yerine 2 büyük düğme (sol + sağ) gösterecektir. (iPad'de daha iyi)";
+
+"Auto Close Switcher" = "Değiştiriciyi otomatik kapat";
+"Button on the left" = "Soldaki düğme";
+"Big Buttons" = "Büyük Butonlar";
+
+"Whitelist" = "Beyaz Liste";
+"WHITELIST_DESC" = "Uzun basarak, Uygulama Değiştiri'deki uygulamaya uzun süre basarak uygulamaları dışla.";
+"Kill Music" = "Müziği kapat";
+"Switch by Long Press" = "Uzun Basma ile Geçiş";
+
+"System Applications" = "Sistem Uygulamaları";
+"User Applications" = "Kullanıcı Uygulamaları";
+"Exclude apps" = "Dışlanan Uygulamalar";
+"WHITELIST_CARD" = "Beyaz listedeki kartın yuvarlaklığını ayarlayın.";
+
+"Button Style" = "Buton Stili";
+"Gray" = "Gri";
+"Skull" = "Kafatası";
+"Light" = "Açık";
+
+"Hide buttons" = "Butonları Gizle";
+"Button Height-Width" = "Buton Yüksekliği-Genişliği";
+"BUTTON_DESC" = "Lütfen düğme vb. Gizlendiğinde ayarlayınız..";
+
+"default" = "Varsayılan";
+"Button Height" = "Buton Yüksekliği";
+"Button Width" = "Buton Genişliği";
+
+"Swipe down" = "Aşağı Kaydır";
+"SWIPE_DESC" = "Uygulama Anahtarlayıcı Kartı İşlemi yürütmek için aşağı kaydırın.";
+"Kill with Swipe down" = "Aşağı Kaydırarak Kapat";
+"Confirm Kill with Swipe down" = "Aşağı Kaydırarak Kapatmayı Onayla";
+"SCROLL_DESC" = "Aşağı kaydırırken kaydırma boyutunu ayarlar.";
+
+"Option" = "Seçenek";
+"OPTION_DESC" = "Düğmeye uzun süre basarsanız, URL şemasını sonunda çalıştırır.
+
+(Flipswitch ve CC butonu dahil)";
+
+"URL scheme at the end" = "Sondaki URL şeması";
+"URL scheme" = "URL şeması";
+"Recommended Apps" = "Önerilen Uygulamalar";
+"APPS_DESC" = "Bu çok geçerli bir hafıza temizleyici uygulamaları.";
+"Copy URL scheme : SySight" = "URL şemasını kopyala: SySight";
+
+"iPhone X iOS 11 Option" = "iPhone X iOS 11 Seçeneği";
+"IXIOS11_DESC" = "Uygulamayı her zaman Uygulama Değiştirici'den öldürür.";
+"Kill AppSwitcher Card" = "Uygulama Değiştirici Kartını Sonlandır";
+
+"iOS 11 - 12 Option" = "iOS 11 - 12 Seçeneği";
+"11_12_OPTION" = "Switcher App Öneri Banner'ı gizle. (Kulaklık bağlantısı gibi)
+
+Legacy CC düğmelerini etkinleştirmek / devre dışı bırakmak için respring gerekir.";
+
+"Hide AppSwitcher Banner" = "Uygulama Değiştirici Banner'ini Gizle";
+"Legacy CC buttons" = "Eski CC düğmeleri";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "Eski Flipswitch düğmelerini etkinleştirmek / devre dışı bırakmak için respring gerekir.";
+"Legacy FS buttons" = "Eski FS butonları";
+
+"Reset Settings" = "Ayarları Sıfırla";
+
+"Credit" = "Hakkında";
+"COPYRIGHT" = "Tweak Mathieu Bolard (@mattlawer) Tarafından Baz Alındı
+
+Özel teşekkür! @ Sorega4 ve @ SAMIF_18 tarafından tasarlanan simgesi
+
+© 2015 - 2024 Cannathea ichitaso tarafından";
+
+"Developed by ichitaso" = "ichitaso Tarafından Geliştirildi";
+"Icon designed by SAMI" = "İkon SAMI Tarafından Oluşturuldu";
+
+"Reset Settings?" = "Ayarları Sıfırla?";
+"OK" = "Tamam";
+"Cancel" = "İptal";
+
+"PLEASE_PURCHASE" = "Lütfen Packix'ten Satın Al.";
+"THANK_YOU_PURCHASE" = "Satın Aldığın İçin Teşekkürler.";
+
+"SHARE_TEXT" = "KillBackground13 çok iyi!";
+
+"Open AppStore?" = "AppStore'da aç?";
+"Yes" = "Evet";
+"NO" = "Hayır";
+"Copy" = "Kopyala";
+
+"Follow on @ichitaso" = "Takip Et @ichitaso";
+"Follow on @SAMIF_18" = "Takip Et @SAMIF_18";
+
+"Open in Tweetbot" = "Tweetbot'ta Aç";
+"Open in Twitter" = "Twitter'da Aç";
+"Open in Browser" = "Tarayıcı'da Aç";
+
+"Kill All Apps" = "Tüm Uygulamaları Kapat";
+"Device locked!" = "Cihaz Kilitlendi!";
+"Please unlock device." = "Lütfen Cihazın Kilidini Aç.";
+
+"Hide blur Card" = "Bulanıklaştırma Kartını gizle";

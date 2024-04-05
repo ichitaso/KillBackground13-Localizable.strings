@@ -1,0 +1,105 @@
+"Respring is required" = "يتطلب ريسبرنج";
+"Cancel" = "إلغاء";
+"Respring" = "ريسبرنج";
+
+"Settings" = "الإعدادات";
+"SETTINGS_DESC" = "سيتم عرض زرين كبيرين (يسار+يمين) بدلًا من واحد. (أفضل على iPad)";
+
+"Auto Close Switcher" = "إغلاق المبدل تلقائيًا";
+"Button on the left" = "زر على اليسار";
+"Big Buttons" = "أزرار كبيرة";
+
+"Whitelist" = "القائمة البيضاء";
+"WHITELIST_DESC" = "التبديل بواسطة الضغط المطول هو تحديد تطبيقات مستثناة عن طريق الضغط مطولًا على التطبيق في مبدل التطبيقات.";
+"Kill Music" = "إغلاق الموسيقى";
+"Switch by Long Press" = "التبديل بواسطة الضغط المطول";
+
+"System Applications" = "تطبيقات النظام";
+"User Applications" = "تطبيقات المستخدم";
+"Exclude apps" = "تطبيقات مستثناة";
+"WHITELIST_CARD" = "اضبط مقدار دوران بطاقات تطبيقات القائمة البيضاء.";
+
+"Button Style" = "شكل الزر";
+"Gray" = "رمادي";
+"Skull" = "جمجمة";
+"Light" = "مضيء";
+
+"Hide buttons" = "إخفاء الأزرار";
+"Button Height-Width" = "ارتفاع-عرض الزر";
+"BUTTON_DESC" = "يرجى ضبطه عندما يكون الزر مخفيًا إلخ.";
+
+"default" = "افتراضي";
+"Button Height" = "ارتفاع الزر";
+"Button Width" = "عرض الزر";
+
+"Swipe down" = "السحب للأسفل";
+"SWIPE_DESC" = "بطاقة مبدل التطبيقات في السحب للأسفل لتنفيذ الإجراء.";
+"Kill with Swipe down" = "إغلاق مع السحب للأسفل";
+"Confirm Kill with Swipe down" = "تأكيد الإغلاق مع السحب للأسفل";
+"SCROLL_DESC" = "اضبط حجم التمرير عند السحب للأسفل.";
+
+"Option" = "خيار";
+"OPTION_DESC" = "إذا تم تشغيل الزر بالضغط المطول، فقم بتشغيل مخطط عنوان URL في النهاية.
+
+‎(بما في ذلك زر Flipswitch ومركز التحكم)";
+
+"URL scheme at the end" = "مخطط عنوان URL في النهاية";
+"URL scheme" = "مخطط عنوان URL";
+"Recommended Apps" = "تطبيقات موصى بها";
+"APPS_DESC" = "هذه تطبيقات تنظيف ذاكرة صالحة للغاية.";
+"Copy URL scheme : SySight" = "نسخ مخطط عنوان URL : SySight";
+
+"iPhone X iOS 11 Option" = "خيار iPhone X iOS 11";
+"IXIOS11_DESC" = "إغلاق التطبيقات دائمًا من مبدل التطبيقات.";
+"Kill AppSwitcher Card" = "إغلاق بطاقة مبدل التطبيقات";
+
+"iOS 11 - 12 Option" = "خيار iOS 11 - 12";
+"11_12_OPTION" = "إخفاء شعار اقتراح تطبيق المبدل. (كعندما تكون سماعة الرأس متصلة)
+
+‎يتطلب ريسبرنج لتفعيل / تعطيل أزرار مركز التحكم القديمة.";
+
+"Hide AppSwitcher Banner" = "إخفاء شعار مبدل التطبيقات";
+"Legacy CC buttons" = "أزرار مركز التحكم القديمة";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "يتطلب ريسبرنج لتفعيل / تعطيل أزرار Flipswitch القديمة.";
+"Legacy FS buttons" = "أزرار Flipswitch القديمة";
+
+"Reset Settings" = "إعادة تعيين الإعدادات";
+
+"Credit" = "الاعتمادات";
+"COPYRIGHT" = "الأداة تم تأسيسها بواسطة Mathieu Bolard (@mattlawer)
+
+شكر خاص! الأيقونة تم تصميمها بواسطة @Sorega4 and @SAMIF_18
+
+© 2015 - 2024 Cannathea بواسطة ichitaso";
+
+"Developed by ichitaso" = "مطورة من قبل ichitaso";
+"Icon designed by SAMI" = "أيقونة مصممة من قبل SAMI";
+
+"Reset Settings?" = "إعادة تعيين الإعدادات؟";
+"OK" = "حسنًا";
+"Cancel" = "إلغاء";
+
+"PLEASE_PURCHASE" = "يرجى الشراء من Havoc.";
+"THANK_YOU_PURCHASE" = "شكرًا لشرائك.";
+
+"SHARE_TEXT" = "KillBackground13 رائعة!";
+
+"Open AppStore?" = "فتح AppStore؟";
+"Yes" = "نعم";
+"NO" = "لا";
+"Copy" = "نسخ";
+
+"Follow on @ichitaso" = "تابع @ichitaso";
+"Follow on @SAMIF_18" = "تابع @SAMIF_18";
+
+"Open in Tweetbot" = "فتح في Tweetbot";
+"Open in Twitter" = "فتح في Twitter";
+"Open in Browser" = "فتح في المتصفح";
+
+"Kill All Apps" = "إغلاق كل التطبيقات";
+"Device locked!" = "الجهاز مقفل!";
+"Please unlock device." = "يرجى فتح قفل الجهاز.";
+
+"Hide blur Card" = "إخفاء بطاقة طمس";

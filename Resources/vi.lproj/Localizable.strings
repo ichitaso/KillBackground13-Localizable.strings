@@ -1,0 +1,105 @@
+"Respring is required" = "Yêu cầu khởi động lại";
+"Cancel" = "Huỷ bỏ";
+"Respring" = "Khởi động";
+
+"Settings" = "Thiết lập";
+"SETTINGS_DESC" = "Sẽ hiển thị 2 nút bấm lớn thay vì chỉ một (trái+phải) instead of one. (tốt hơn trên iPad)";
+
+"Auto Close Switcher" = "Chuyển đổi tự động";
+"Button on the left" = "Nút bấm bên trái";
+"Big Buttons" = "Nút bấm lớn";
+
+"Whitelist" = "Danh sách trắng";
+"WHITELIST_DESC" = "Chuyển đổi bằng ấn giữ và lựa chọn loại trừ ứng dụng";
+"Kill Music" = "Tắt âm nhạc";
+"Switch by Long Press" = "Chuyển đổi bằng nhấn giữ";
+
+"System Applications" = "Ứng dụng hệ thống";
+"User Applications" = "Ứng dụng người dùng";
+"Exclude apps" = "Ứng dụng loại trừ";
+"WHITELIST_CARD" = "Điều chỉnh độ tròn của thẻ danh sách trắng";
+
+"Button Style" = "Kiểu nút";
+"Gray" = "Màu Xám";
+"Skull" = "Màu Đỏ";
+"Light" = "Màu sáng";
+
+"Hide buttons" = "Nút ẩn";
+"Button Height-Width" = "Chiều cao-Chiều rộng";
+"BUTTON_DESC" = "Vui lòng điều chỉnh khi nút bị ẩn";
+
+"default" = "ban đầu";
+"Button Height" = "Chiều cao";
+"Button Width" = "Chiều rộng";
+
+"Swipe down" = "Vuốt xuống";
+"SWIPE_DESC" = "Chuyển đổi ứng dụng bằng cách vuốt xuống để thực hiện.";
+"Kill with Swipe down" = "Tắt nếu vuốt xuống";
+"Confirm Kill with Swipe down" = "Xác nhận tắt nếu vuốt xuống";
+"SCROLL_DESC" = "Điều chỉnh kích thước cuộn khi vuốt xuống.";
+
+"Option" = "Tuỳ chọn";
+"OPTION_DESC" = "Nếu ấn giữ lâu, chạy chương trình URL cuối cùng.
+
+(Including Flipswitch and CC button)";
+
+"URL scheme at the end" = "Kế hoạch URL cuối cùng";
+"URL scheme" = "Phối hợp URL";
+"Recommended Apps" = "Ứng dụng đề xuất";
+"APPS_DESC" = "Đây là một ứng dụng dọn dẹp bộ nhớ rất tin cậy";
+"Copy URL scheme : SySight" = "Copy URL scheme : SySight";
+
+"iPhone X iOS 11 Option" = "Tuỳ chọn phiên bản iPhone X iOS 11";
+"IXIOS11_DESC" = "Luôn tắt ứng dụng từ trình chuyển đổi.";
+"Kill AppSwitcher Card" = "Tắt thẻ chuyển đổi";
+
+"iOS 11 - 12 Option" = "Tuỳ chọn phiên bản iOS 11 - 12";
+"11_12_OPTION" = "Ẩn biểu ngữ đề xuất của ứng dụng. (Ví dụ như tai nghe)
+
+Respring is required to enable / disable Legacy CC buttons.";
+
+"Hide AppSwitcher Banner" = "Ẩn biểu ngữ trình chuyển đổi";
+"Legacy CC buttons" = "Nút bấm hệ thống CC";
+
+"Flipswitch" = "Lật";
+"FS_DESC" = "Khởi động lại là cần thiết / vô hiệu nút lật cơ sở.";
+"Legacy FS buttons" = "Nút bấm hệ thống FS";
+
+"Reset Settings" = "Xóa thiết lập";
+
+"Credit" = "Tín dụng";
+"COPYRIGHT" = "Dựa trên cơ sở tỉnh chỉnh của Mathieu Bolard (@mattlawer)
+
+Chân thành cảm ơn! Biểu tượng thiết kế bởi @Sorega4 và @SAMIF_18
+
+© 2015 - 2024 Cannathea by ichitaso";
+
+"Developed by ichitaso" = "Người phát triển ichitaso";
+"Icon designed by SAMI" = "Thiết kế SAMI";
+
+"Reset Settings?" = "Xóa thiết lập?";
+"OK" = "Đồng ý";
+"Cancel" = "Huỷ bỏ";
+
+"PLEASE_PURCHASE" = "Vui lòng mua bản quyền ứng dụng trên Packix.";
+"THANK_YOU_PURCHASE" = "Cảm ơn bạn đã mua bản quyền ứng dụng.";
+
+"SHARE_TEXT" = "KillBackground13 rất tuyệt vời!";
+
+"Open AppStore?" = "Mở AppStore?";
+"Yes" = "Đồng ý";
+"NO" = "Không đồng ý";
+"Copy" = "Sao chép";
+
+"Follow on @ichitaso" = "Theo dõi @ichitaso";
+"Follow on @SAMIF_18" = "Theo dõi @SAMIF_18";
+
+"Open in Tweetbot" = "Mở trong Tweetbot";
+"Open in Twitter" = "Mở trong Twitter";
+"Open in Browser" = "Mở trong Browser";
+
+"Kill All Apps" = "Tắt tất cả ứng dụng";
+"Device locked!" = "Thiết bị đã bị khoá!";
+"Please unlock device." = "Vui lòng mở khoá thiết bị.";
+
+"Hide blur Card" = "Ẩn thẻ danh sách trắng";

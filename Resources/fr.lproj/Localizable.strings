@@ -1,0 +1,105 @@
+"Respring is required" = "Respring requis";
+"Cancel" = "Annuler";
+"Respring" = "Respring";
+
+"Settings" = "Réglages";
+"SETTINGS_DESC" = "Affiche 2 gros boutons (gauche + droite) au lieu d'un. (mieux sur l'iPad)";
+
+"Auto Close Switcher" = "Fermeture automatique du multi-tâches";
+"Button on the left" = "Bouton à gauche";
+"Big Buttons" = "Gros Boutons";
+
+"Whitelist" = "Liste blanche";
+"WHITELIST_DESC" = "Basculer par appui long est sélectionné exclure les applications par un appui long sur l’application dans le multi-tâches.";
+"Kill Music" = "Désactiver Musique";
+"Switch by Long Press" = "Commutateur par appui long";
+
+"System Applications" = "Applications système";
+"User Applications" = "Applications de l'utilisateur";
+"Exclude apps" = "Exclure les applications";
+"WHITELIST_CARD" = "Ajustez la rondeur de la carte figurant sur la liste blanche.";
+
+"Button Style" = "Style de bouton";
+"Gray" = "Gris";
+"Skull" = "Crâne";
+"Light" = "Clair";
+
+"Hide buttons" = "Masquer les boutons";
+"Button Height-Width" = "Bouton Hauteur-Largeur";
+"BUTTON_DESC" = "Veuillez ajuster lorsque le bouton est caché, etc.";
+
+"default" = "défaut";
+"Button Height" = "Hauteur du bouton";
+"Button Width" = "Largeur du bouton";
+
+"Swipe down" = "Balayez vers le bas";
+"SWIPE_DESC" = "Balayer vers le bas une carte du multi-tâche pour exécuter l'action.";
+"Kill with Swipe down" = "Quitter avec un balayage vers le bas";
+"Confirm Kill with Swipe down" = "Confirmer quitter avec un balayage vers le bas";
+"SCROLL_DESC" = "Ajuste la taille du défilement lorsque vous glissez vers le bas.";
+
+"Option" = "Options";
+"OPTION_DESC" = "Si vous appuyez longuement sur le bouton, exécutez le schéma d'URL à la fin.
+
+(Y compris Flipswitch et bouton CC)";
+
+"URL scheme at the end" = "Schéma d'URL à la fin";
+"URL scheme" = "Schéma d'URL";
+"Recommended Apps" = "Applications recommandées";
+"APPS_DESC" = "Ceci est une très bonne application de nettoyage de la mémoire.";
+"Copy URL scheme : SySight" = "Copier le schéma d'URL: SySight";
+
+"iPhone X iOS 11 Option" = "Options iPhone X iOS 11";
+"IXIOS11_DESC" = "Toujours tuer l'application à partir du multi-tâches";
+"Kill AppSwitcher Card" = "Quitter toutes les applications du multi-tâches";
+
+"iOS 11 - 12 Option" = "Options iOS 11 - 12";
+"11_12_OPTION" = "Masquer la bannière de suggestion du multi-tâches. (Comme une connexion casque)
+
+Respring est requis pour activer / désactiver les boutons CC hérités.";
+
+"Hide AppSwitcher Banner" = "Masquer la bannière du selecteur d'App";
+"Legacy CC buttons" = "Boutons CC hérités";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "Respring est requis pour activer / désactiver les boutons des interrupteur à levier hérités.";
+"Legacy FS buttons" = "Boutons FS hérités";
+
+"Reset Settings" = "Réinitialiser les réglages";
+
+"Credit" = "Crédits";
+"COPYRIGHT" = "Tweak Basé par Mathieu Bolard (@mattlawer)
+
+Remerciement spécial! Icône conçue par @Sorega4 et @SAMIF_18
+
+© 2015 - 2024 Cannathea by ichitaso";
+
+"Developed by ichitaso" = "Développé par ichitaso";
+"Icon designed by SAMI" = "Icône conçue par SAMI";
+
+"Reset Settings?" = "Réinitialiser les options?";
+"OK" = "Ok";
+"Cancel" = "Annuler";
+
+"PLEASE_PURCHASE" = "S'il vous plaît acheter sur Packix.";
+"THANK_YOU_PURCHASE" = "Merci pour votre achat";
+
+"SHARE_TEXT" = "KillBackground13 est mortel !";
+
+"Open AppStore?" = "Ouvrir l'AppStore?";
+"Yes" = "Oui";
+"NO" = "Non";
+"Copy" = "Copier";
+
+"Follow on @ichitaso" = "Suivre sur @ichitaso";
+"Follow on @SAMIF_18" = "Suivre sur @SAMIF_18";
+
+"Open in Tweetbot" = "Ouvrir dans Tweetbot";
+"Open in Twitter" = "Ouvrir dans Twitter";
+"Open in Browser" = "Ouvrir dans Browser";
+
+"Kill All Apps" = "Quitter toutes les applications";
+"Device locked!" = "Appareil verrouillé!";
+"Please unlock device." = "S'il vous plaît déverrouillez l'appareil.";
+
+"Hide blur Card" = "Masquer le flou des cartes";

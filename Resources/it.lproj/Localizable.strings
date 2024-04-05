@@ -1,0 +1,105 @@
+"Respring is required" = "Respring necessario";
+"Cancel" = "Annulla";
+"Respring" = "Respring";
+
+"Settings" = "Impostazioni";
+"SETTINGS_DESC" = "Mostra 2 pulsanti (sinistra+destra) invece di uno. (meglio su iPad)";
+
+"Auto Close Switcher" = "Auto Close Switcher";
+"Button on the left" = "Pulsante sulla sinistra";
+"Big Buttons" = "Grandi pulsanti";
+
+"Whitelist" = "Whitelist";
+"WHITELIST_DESC" = "Switch by Long Press is select Exclude apps by long-press the app on the App Switcher.";
+"Kill Music" = "Chiudi Musica";
+"Switch by Long Press" = "Switch by Long Press";
+
+"System Applications" = "Applicazioni di sistema";
+"User Applications" = "Applicazioni utente";
+"Exclude apps" = "Escludi Apps";
+"WHITELIST_CARD" = "Regola la rotondità della whitelist.";
+
+"Button Style" = "Stile pulsanti";
+"Gray" = "Grigio";
+"Skull" = "Teschio";
+"Light" = "Chiaro";
+
+"Hide buttons" = "Nascondi pulsanti";
+"Button Height-Width" = "Altezza-Larghezza pulsanti";
+"BUTTON_DESC" = "Regolalo quando il pulsante è nascosto etc.";
+
+"default" = "default";
+"Button Height" = "Altezza pulsante";
+"Button Width" = "Larghezza pulsante";
+
+"Swipe down" = "Scorri verso il basso";
+"SWIPE_DESC" = "App Switcher Card in Scorri verso il basso per eseguire l'azione.";
+"Kill with Swipe down" = "Chiudi con scorrimento verso il basso";
+"Confirm Kill with Swipe down" = "Conferma chisura con scorrimento verso il basso";
+"SCROLL_DESC" = "Regola lo misura dello scroll quando scorri verso il basso.";
+
+"Option" = "Opzioni";
+"OPTION_DESC" = "Esegui lo schema URL alla fine, se esegui una lunga pressione.
+
+(Incluso Flipswitch e pulsanti CC)";
+
+"URL scheme at the end" = "schema URL alla fine";
+"URL scheme" = "Schema URL";
+"Recommended Apps" = "Apps raccomandate";
+"APPS_DESC" = "Questa è una Apps molto valida per la pulizia della memoria.";
+"Copy URL scheme : SySight" = "Copia schema URL : SySight";
+
+"iPhone X iOS 11 Option" = "Opzioni iPhone X iOS 11";
+"IXIOS11_DESC" = "Chiudi sempre l’applicazoione dallo Switcher.";
+"Kill AppSwitcher Card" = "Chiudi Pagina AppSwitcher";
+
+"iOS 11 - 12 Option" = "Opzioni iOS 11 - 12";
+"11_12_OPTION" = "Nascondi Banner suggerimenti dello switcher. (Per esempio connessione cuffie)
+
+Un Respring è necessario per abilitare / disabilitare i pulsanti CC legacy.";
+
+"Hide AppSwitcher Banner" = "Nasconi banner AppSwitcher";
+"Legacy CC buttons" = "Pulsanti CC legacy";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "Un Respring è necessario per abilitare / disabilitare i pulsati Flipswitch legacy.";
+"Legacy FS buttons" = "Pulsanti FS legacy";
+
+"Reset Settings" = "Resetta impostazioni";
+
+"Credit" = "Credit";
+"COPYRIGHT" = "Basato sul Tweak di Mathieu Bolard (@mattlawer)
+
+Ringraziamenti speciali! Icone disegnate da @Sorega4 and @SAMIF_18
+
+© 2015 - 2024 Cannathea di ichitaso";
+
+"Developed by ichitaso" = "Sviluppato da ichitaso";
+"Icon designed by SAMI" = "Icone disegnate da SAMI";
+
+"Reset Settings?" = "Resetta impostazioni?";
+"OK" = "SI";
+"Cancel" = "Annulla";
+
+"PLEASE_PURCHASE" = "Per favore acquista su Havoc.";
+"THANK_YOU_PURCHASE" = "Grazie per l’acquisto.";
+
+"SHARE_TEXT" = "KillBackground13 è utile!";
+
+"Open AppStore?" = "Apri AppStore?";
+"Yes" = "Si";
+"NO" = "NO";
+"Copy" = "Copia";
+
+"Follow on @ichitaso" = "Segui @ichitaso";
+"Follow on @SAMIF_18" = "Segui @SAMIF_18";
+
+"Open in Tweetbot" = "Apri in Tweetbot";
+"Open in Twitter" = "Apri in Twitter";
+"Open in Browser" = "Apri in Browser";
+
+"Kill All Apps" = "Chiudi tutte le Apps";
+"Device locked!" = "Dispositivo bloccato!";
+"Please unlock device." = "Per favore sblocca il dispositivo.";
+
+"Hide blur Card" = "Nascondi la Whitelist Card";

@@ -1,0 +1,104 @@
+"Respring is required" = "Respring ist nötig";
+"Cancel" = "Abbrechen";
+"Respring" = "Respring";
+
+"Settings" = "Einstellungen";
+"SETTINGS_DESC" = "Zeigt statt einen, zwei große Knöpfe (links + rechts) an. (Besser auf dem iPad)";
+
+"Auto Close Switcher" = "Umschalter automatisch schließen";
+"Button on the left" = "Tasten auf der linken Seite";
+"Big Buttons" = "Große Tasten";
+
+"Whitelist" = "Ausnahmeliste";
+"WHITELIST_DESC" = "Wechsel durch langes Drücken ist aktiv. Entferne Apps durch langes Drücken auf dem App-Umschalter";
+
+"Kill Music" = "Musik schließen";
+"Switch by Long Press" = "Umschalten durch langes Drücken";
+
+"System Applications" = "Systemanwendungen";
+"User Applications" = "Benutzeranwendungen";
+"Exclude apps" = "Anwendungen ausschließen";
+"WHITELIST_CARD" = "Rundungen der Ausnahmeliste anpassen";
+
+"Button Style" = "Tastenstil";
+"Gray" = "Grau";
+"Skull" = "Graustufe";
+"Light" = "Hell";
+
+"Hide buttons" = "Schalter verstecken";
+"Button Height-Width" = "Taste Höhe-Breite";
+"BUTTON_DESC" = "Bitte anpassen, wenn die Taste unsichtbar ist usw.";
+
+"default" = "Standard";
+"Button Height" = "Tastenhöhe";
+"Button Width" = "Tastenbreite";
+
+"Swipe down" = "Herunterwischen";
+"SWIPE_DESC" = "App-Umschalter nach unten wischen, um die Aktion auszuführen.";
+"Kill with Swipe down" = "Durch Herunterwischen schließen";
+"Confirm Kill with Swipe down" = "Durch Herunterwischen schließen bestätigen.";
+"SCROLL_DESC" = "Scrollweite beim Herunterwischen anpassen";
+
+"Option" = "Optionen";
+"OPTION_DESC" = "Wenn die Schaltfläche durch langes Drücken aktiv ist, wird am Ende das URL-Schema ausgeführt. (Einschließlich Flipswitch und CC-Schalter)";
+
+"URL scheme at the end" = "URL-Schema am Ende";
+"URL scheme" = "URL-Schema";
+"Recommended Apps" = "Empfohlene Anwendungen";
+"APPS_DESC" = "Dies sind gültige Systemreiniger-Anwendungen.";
+"Copy URL scheme : SySight" = "URL-Schema kopieren : SySight";
+
+"iPhone X iOS 11 Option" = "iPhone X iOS 11 Option";
+"IXIOS11_DESC" = "Immer Anwendungen vom App-Umschalter schließen.";
+"Kill AppSwitcher Card" = "App-Umschalter schließen";
+
+"iOS 11 - 12 Option" = "iOS 11 - 12 Option";
+"11_12_OPTION" = "App-Umschalter-Empfehlungen verstecken. (Wie z.B. Kopfhörerverbindung)
+
+Ein Respring ist zur Aktivierung nötig / Deaktiviere standardmäßige CC-Schalter";
+
+"Hide AppSwitcher Banner" = "App-Umschalter-Banner verstecken";
+"Legacy CC buttons" = "Alte CC-Schalter";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "Ein Respring ist zur Aktivierung nötig / Deaktiviere Standardmäßige Flipswitch-Schalter";
+"Legacy FS buttons" = "Alte FS-Schalter";
+
+"Reset Settings" = "Einstellungen Zurücksetzen";
+
+"Credit" = "Mitwirkende";
+"COPYRIGHT" = "Basiert auf eine Erweiterung von Mathieu Bolard (@mattlawer)
+
+Großer Dank! Logo von @Sorega4 und @SAMIF_18 entworfen
+
+© 2015 - 2024 Cannathea von ichitaso";
+
+"Developed by ichitaso" = "Entwickelt von ichitaso";
+"Icon designed by SAMI" = "Logo von SAMI entworfen";
+
+"Reset Settings?" = "Einstellungen zurücksetzen?";
+"OK" = "OK";
+"Cancel" = "Abbrechen";
+
+"PLEASE_PURCHASE" = "Bitte auf Packix erwerben.";
+"THANK_YOU_PURCHASE" = "Danke für den Einkauf.";
+
+"SHARE_TEXT" = "KillBackground13 ist toll!";
+
+"Open AppStore?" = "AppStore öffnen?";
+"Yes" = "Ja";
+"NO" = "Nein";
+"Copy" = "Kopie";
+
+"Follow on @ichitaso" = "@ichitaso folgen";
+"Follow on @SAMIF_18" = "@SAMIF_18 folgen";
+
+"Open in Tweetbot" = "In Tweetbot öffnen";
+"Open in Twitter" = "In Twitter öffnen";
+"Open in Browser" = "Im Browser öffnen";
+
+"Kill All Apps" = "Beenden Sie alle Apps";
+"Device locked!" = "Gerät ist gesperrt!";
+"Please unlock device." = "Bitte entsperren Sie das Gerät.";
+
+"Hide blur Card" = "Unschärfekarte ausblenden";

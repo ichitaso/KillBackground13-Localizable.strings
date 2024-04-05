@@ -1,0 +1,106 @@
+"Respring is required" = "Respringが必要です";
+"Cancel" = "キャンセル";
+"Respring" = "Respring";
+
+"Settings" = "設定";
+"SETTINGS_DESC" = "左右に二つの大きなボタンが表示されます。iPadなどに最適です。";
+
+"Auto Close Switcher" = "自動でスイッチャーを閉じる";
+"Button on the left" = "ボタンを左にする";
+"Center Button" = "中央にボタン";
+"Big Buttons" = "大きなボタン";
+
+"Whitelist" = "ホワイトリスト";
+"WHITELIST_DESC" = "長押しで切り替えをオンにしている場合、Appスイッチャーでアプリを長押しすることで切り替えできます。";
+"Kill Music" = "再生中の音楽アプリをキル";
+"Switch by Long Press" = "長押しで切り替え";
+
+"System Applications" = "システムアプリケーション";
+"User Applications" = "ユーザーアプリケーション";
+"Exclude apps" = "除外するアプリ";
+"WHITELIST_CARD" = "ホワイトリストのカードの丸みを調整する";
+
+"Button Style" = "ボタンスタイル";
+"Gray" = "グレー";
+"Skull" = "ドクロ";
+"Light" = "ライト";
+
+"Hide buttons" = "ボタンを非表示";
+"Button Height-Width" = "ボタンの高さと横の位置";
+"BUTTON_DESC" = "ボタンが隠れる場合などに調整してください。";
+
+"default" = "デフォルト";
+"Button Height" = "ボタンの高さ";
+"Button Width" = "ボタンの横位置";
+
+"Swipe down" = "スワイプダウン";
+"SWIPE_DESC" = "Appスイッチャーカードを下にスワイプしてアクションを実行します。";
+"Kill with Swipe down" = "下にスワイプしてキル";
+"Confirm Kill with Swipe down" = "スワイプダウンでキルする時に確認";
+"SCROLL_DESC" = "下にスワイプするときのスクロールサイズを調整します。";
+
+"Option" = "オプション";
+"OPTION_DESC" = "ボタンを長押しすると、最後にURLスキームが実行されます。
+
+（FlipswitchとCCボタンを含む）";
+
+"URL scheme at the end" = "最後にURLスキームを実行";
+"URL scheme" = "URLスキーム";
+"Recommended Apps" = "おすすめアプリ";
+"APPS_DESC" = "非常に有効なメモリクリーナーアプリです。";
+"Copy URL scheme : SySight" = "URLスキームをコピー : SySight";
+
+"iPhone X iOS 11 Option" = "iPhone X iOS 11用オプション";
+"IXIOS11_DESC" = "常にAppスイッチャーからアプリをキルできるようにします。";
+"Kill AppSwitcher Card" = "Appスイッチャーカードでキル";
+
+"iOS 11 - 12 Option" = "iOS 11と12向けオプション";
+"11_12_OPTION" = "Appスイッチャー下のアプリ提案バナーを非表示にします。 （ヘッドホン接続など）
+
+レガシーCCボタンを有効/無効にするためにはRespringが必要です。";
+
+"Hide AppSwitcher Banner" = "Appスイッチャー下のバナーを消す";
+"Legacy CC buttons" = "レガシーCCボタン";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "レガシーFlipswitchボタンを有効/無効にするためにはRespringが必要です。";
+"Legacy FS buttons" = "レガシーFSボタン";
+
+"Reset Settings" = "設定をリセット";
+
+"Credit" = "クレジット";
+"COPYRIGHT" = "Based Tweak by Mathieu Bolard (@mattlawer)
+
+Special thanks! Icon designed by @Sorega4 and @SAMIF_18
+
+© 2015 - 2024 Cannathea by ichitaso";
+
+"Developed by ichitaso" = "Developed by ichitaso";
+"Icon designed by SAMI" = "Icon designed by SAMI";
+
+"Reset Settings?" = "設定をリセットしますか？";
+"OK" = "OK";
+"Cancel" = "キャンセル";
+
+"PLEASE_PURCHASE" = "Havocから購入してください。";
+"THANK_YOU_PURCHASE" = "ご購入いただきありがとうございます。";
+
+"SHARE_TEXT" = "KillBackground13 is Nice!";
+
+"Open AppStore?" = "Appストアを開きますか？";
+"Yes" = "はい";
+"NO" = "いいえ";
+"Copy" = "コピー";
+
+"Follow on @ichitaso" = "@ichitasoをフォロー";
+"Follow on @SAMIF_18" = "@SAMIF_18をフォロー";
+
+"Open in Tweetbot" = "Tweetbotで開く";
+"Open in Twitter" = "Twitterで開く";
+"Open in Browser" = "ブラウザで開く";
+
+"Kill All Apps" = "すべてのアプリを終了";
+"Device locked!" = "デバイスがロックされています！";
+"Please unlock device." = "デバイスのロックを解除してください。";
+
+"Hide blur Card" = "ロック画像を非表示";

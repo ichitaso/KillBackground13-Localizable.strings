@@ -1,0 +1,106 @@
+"Respring is required" = "Respring is required";
+"Cancel" = "Cancel";
+"Respring" = "Respring";
+
+"Settings" = "Settings";
+"SETTINGS_DESC" = "Will display 2 big buttons (left+right) instead of one. (better on the iPad)";
+
+"Auto Close Switcher" = "Auto Close Switcher";
+"Button on the left" = "Button on the left";
+"Center Button" = "Center Button";
+"Big Buttons" = "Big Buttons";
+
+"Whitelist" = "Whitelist";
+"WHITELIST_DESC" = "Switch by Long Press is select Exclude apps by long-press the app on the App Switcher.";
+"Kill Music" = "Kill Music";
+"Switch by Long Press" = "Switch by Long Press";
+
+"System Applications" = "System Applications";
+"User Applications" = "User Applications";
+"Exclude apps" = "Exclude apps";
+"WHITELIST_CARD" = "Adjust the roundness of the whitelisted card.";
+
+"Button Style" = "Button Style";
+"Gray" = "Gray";
+"Skull" = "Skull";
+"Light" = "Light";
+
+"Hide buttons" = "Hide buttons";
+"Button Height-Width" = "Button Height-Width";
+"BUTTON_DESC" = "Please adjust it when the button is hidden etc.";
+
+"default" = "default";
+"Button Height" = "Button Height";
+"Button Width" = "Button Width";
+
+"Swipe down" = "Swipe down";
+"SWIPE_DESC" = "App Switcher Card in Swipe down to execute the action.";
+"Kill with Swipe down" = "Kill with Swipe down";
+"Confirm Kill with Swipe down" = "Confirm Kill with Swipe down";
+"SCROLL_DESC" = "Adjusts the scroll size when swiping downward.";
+
+"Option" = "Option";
+"OPTION_DESC" = "If run the button long press, Run the URL scheme at the end.
+
+(Including Flipswitch and CC button)";
+
+"URL scheme at the end" = "URL scheme at the end";
+"URL scheme" = "URL scheme";
+"Recommended Apps" = "Recommended Apps";
+"APPS_DESC" = "This is a very valid memory cleaner apps.";
+"Copy URL scheme : SySight" = "Copy URL scheme : SySight";
+
+"iPhone X iOS 11 Option" = "iPhone X iOS 11 Option";
+"IXIOS11_DESC" = "Always kills the application from App Switcher.";
+"Kill AppSwitcher Card" = "Kill AppSwitcher Card";
+
+"iOS 11 - 12 Option" = "iOS 11 - 12 Option";
+"11_12_OPTION" = "Hide Switcher App Suggestion Banner. (Such as headphone connection)
+
+Respring is required to enable / disable Legacy CC buttons.";
+
+"Hide AppSwitcher Banner" = "Hide AppSwitcher Banner";
+"Legacy CC buttons" = "Legacy CC buttons";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "Respring is required to enable / disable Legacy Flipswitch buttons.";
+"Legacy FS buttons" = "Legacy FS buttons";
+
+"Reset Settings" = "Reset Settings";
+
+"Credit" = "Credit";
+"COPYRIGHT" = "Based Tweak by Mathieu Bolard (@mattlawer)
+
+Special thanks! Icon designed by @Sorega4 and @SAMIF_18
+
+© 2015 - 2024 Cannathea by ichitaso";
+
+"Developed by ichitaso" = "Developed by ichitaso";
+"Icon designed by SAMI" = "Icon designed by SAMI";
+
+"Reset Settings?" = "Reset Settings?";
+"OK" = "OK";
+"Cancel" = "Cancel";
+
+"PLEASE_PURCHASE" = "Please purchase from the Havoc.";
+"THANK_YOU_PURCHASE" = "Thank you for your purchase.";
+
+"SHARE_TEXT" = "KillBackground13 is dope!";
+
+"Open AppStore?" = "Open AppStore?";
+"Yes" = "Yes";
+"NO" = "NO";
+"Copy" = "Copy";
+
+"Follow on @ichitaso" = "Follow on @ichitaso";
+"Follow on @SAMIF_18" = "Follow on @SAMIF_18";
+
+"Open in Tweetbot" = "Open in Tweetbot";
+"Open in Twitter" = "Open in Twitter";
+"Open in Browser" = "Open in Browser";
+
+"Kill All Apps" = "Kill All Apps";
+"Device locked!" = "Device locked!";
+"Please unlock device." = "Please unlock device.";
+
+"Hide blur Card" = "Hide Lock Image";

@@ -1,0 +1,105 @@
+"Respring is required" = "Respring diperlukan";
+"Cancel" = "Batal";
+"Respring" = "Respring";
+
+"Settings" = "Penetapan";
+"SETTINGS_DESC" = "Akan dipamer 2 butang besar (kiri+kanan) daripada hanya satu. (lebih baik di iPad)";
+
+"Auto Close Switcher" = "Tutup Penukar Sendiri";
+"Button on the left" = "Butang disebelah kiri";
+"Big Buttons" = "Butang Besar";
+
+"Whitelist" = "Senarai Putih";
+"WHITELIST_DESC" = "Tukar dengan Tekan Lama dipilih. Menyisihkan app degan tekan-lama app tersebut pada Penukar App.";
+"Kill Music" = "Hentikan Musik";
+"Switch by Long Press" = "Tukar dengan Tekan Lama";
+
+"System Applications" = "Aplikasi Sistem";
+"User Applications" = "Aplikasi Pengguna";
+"Exclude apps" = "App disisih";
+"WHITELIST_CARD" = "Gubah kebulatan kad di senarai putih.";
+
+"Button Style" = "Stail Butang";
+"Gray" = "Kelabu";
+"Skull" = "Tengkorak";
+"Light" = "Cahaya";
+
+"Hide buttons" = "Sembunyi butang";
+"Button Height-Width" = "Ketinggian-Lebar Butang";
+"BUTTON_DESC" = "Sila gubah bila butang tersembunyi.";
+
+"default" = "asal";
+"Button Height" = "Tinggi Butang";
+"Button Width" = "Lebar Butang";
+
+"Swipe down" = "Sapu bawah";
+"SWIPE_DESC" = "Sapu bawah pada Kad Penukar App untuk laksanakan aksi tersebut.";
+"Kill with Swipe down" = "Hentikan dengan Sapu bawah";
+"Confirm Kill with Swipe down" = "Pengesahan Henti dengan Sapu bawah";
+"SCROLL_DESC" = "Ubah saiz skrol bila menyapu kebawah.";
+
+"Option" = "Pilihan";
+"OPTION_DESC" = "Jika jalankan tekan lama pada butang, skema URL akan dilaksanakan di penghujung.
+
+(Termasuk Flipswitch dan butang CC)";
+
+"URL scheme at the end" = "Skema URL di penghujung";
+"URL scheme" = "Skema URL";
+"Recommended Apps" = "App disyorkan";
+"APPS_DESC" = "Ini adalah app pembuang memori yang disahkan.";
+"Copy URL scheme : SySight" = "Salinan skema URL : SySight";
+
+"iPhone X iOS 11 Option" = "Pilihan iPhone X iOS 11";
+"IXIOS11_DESC" = "Sentiasa hentikan applikasi dari Penukar App.";
+"Kill AppSwitcher Card" = "Hentikan Kad Penukar App";
+
+"iOS 11 - 12 Option" = "Pilihan iOS 11 - 12";
+"11_12_OPTION" = "Sorok Banner cadangan di Penukar App. (Seperti sambungan pada headphone)
+
+Respring diperlukan untuk membolehkan / melumpuhkan butang Legasi CC.";
+
+"Hide AppSwitcher Banner" = "Sorok Banner Penukar App";
+"Legacy CC buttons" = "Butang Legasi CC";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "Respring diperlukan untuk membolehkan / melumpuhkan butang Legasi Flipswitch.";
+"Legacy FS buttons" = "Butang Legasi FS";
+
+"Reset Settings" = "Menetapkan semula Tetapan";
+
+"Credit" = "Kredit";
+"COPYRIGHT" = "Tweak berasaskan oleh Mathieu Bolard (@mattlawer)
+
+Terima kasih! Ikon direka oleh @Sorega4 dan @SAMIF_18
+
+© 2015 - 2024 Cannathea oleh ichitaso";
+
+"Developed by ichitaso" = "Dibina oleh ichitaso";
+"Icon designed by SAMI" = "Ikon direka oleh SAMI";
+
+"Reset Settings?" = "Menetapkan semula Tetapan?";
+"OK" = "OK";
+"Cancel" = "Batal";
+
+"PLEASE_PURCHASE" = "Sila beli dari Packix.";
+"THANK_YOU_PURCHASE" = "Terima kasih atas pembelian anda.";
+
+"SHARE_TEXT" = "KillBackground13 adalah terbaik!";
+
+"Open AppStore?" = "Buka AppStore?";
+"Yes" = "Ya";
+"NO" = "TIDAK";
+"Copy" = "Salinan";
+
+"Follow on @ichitaso" = "Ikuti @ichitaso";
+"Follow on @SAMIF_18" = "Ikuti @SAMIF_18";
+
+"Open in Tweetbot" = "Buka di Tweetbot";
+"Open in Twitter" = "Buka di Twitter";
+"Open in Browser" = "Buka di Browser";
+
+"Kill All Apps" = "Hentikan Semua App";
+"Device locked!" = "Peranti terkunci!";
+"Please unlock device." = "Sila buka kunci peranti.";
+
+"Hide blur Card" = "Sorok kabur Kad";

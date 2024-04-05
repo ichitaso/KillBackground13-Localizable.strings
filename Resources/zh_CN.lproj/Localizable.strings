@@ -1,0 +1,106 @@
+"Respring is required" = "需要注销来完成操作";
+"Cancel" = "取消";
+"Respring" = "注销";
+
+"Settings" = "设置";
+"SETTINGS_DESC" = "在左右两侧显示两个按钮。（可能在iPad上会更好看）";
+
+"Auto Close Switcher" = "自动关闭后台";
+"Button on the left" = "左侧按钮";
+"Big Buttons" = "大按钮";
+
+"Whitelist" = "愿望单";
+"WHITELIST_DESC" = "长按App添加白名单";
+"Kill Music" = "关闭音乐";
+"Switch by Long Press" = "长按来选择";
+
+"System Applications" = "系统应用";
+"User Applications" = "App Store应用";
+"Exclude apps" = "白名单";
+"WHITELIST_CARD" = "设置应用卡片圆角";
+
+"Button Style" = "按钮样式";
+"Gray" = "灰色";
+"Skull" = "骷髅头";
+"Light" = "亮色";
+
+"Hide buttons" = "隐藏按钮";
+"Button Height-Width" = "按钮尺寸";
+"BUTTON_DESC" = "只有在按钮隐藏的时候才能修改，否则可能崩溃";
+
+"default" = "默认";
+"Button Height" = "按钮高度";
+"Button Width" = "按钮宽度";
+
+"Swipe down" = "下滑";
+"SWIPE_DESC" = "下滑App卡片来执行操作";
+"Kill with Swipe down" = "下滑卡片自动操作";
+"Confirm Kill with Swipe down" = "确认下滑操作";
+"SCROLL_DESC" = "启用下滑手势动画";
+
+"Option" = "选项";
+"OPTION_DESC" = "如果执行按钮长安动作，则在结束时启动URL Scheme
+
+(包括控制中心的按钮)";
+
+"URL scheme at the end" = "在结束时启用URL Scheme";
+"URL scheme" = "URL scheme";
+"Recommended Apps" = "推荐的App";
+"APPS_DESC" = "这是一个非常值得清理的大内存App";
+"Copy URL scheme : SySight" = "复制 URL scheme : SySight";
+
+"iPhone X iOS 11 Option" = "iPhone X iOS 11 选项";
+"IXIOS11_DESC" = "总是自动关闭后台应用";
+"Kill AppSwitcher Card" = "关闭后台";
+
+"iOS 11 - 12 Option" = "iOS 11 - 12 选项";
+"11_12_OPTION" = "关闭推荐条 (例如：耳机已连接)
+
+开关控制中心选项需要注销.";
+
+"Hide AppSwitcher Banner" = "隐藏后台横幅";
+"Legacy CC buttons" = "传统控制中心按钮";
+
+"Flipswitch" = "Flipswitch";
+"FS_DESC" = "开关传统的 Flipswitch 需要注销";
+"Legacy FS buttons" = "传统 Flipswitch 按钮";
+
+"Reset Settings" = "重制";
+
+"Credit" = "鸣谢";
+"COPYRIGHT" = "插件基础：Mathieu Bolard (@mattlawer)
+
+特别感谢图表制作者： @Sorega4 and @SAMIF_18
+中文翻译： @Lakr233
+
+© 2015 - 2024 Cannathea by ichitaso";
+
+"Developed by ichitaso" = "由ichitaso开发";
+"Icon designed by SAMI" = "由SAMI设计图标";
+
+"Reset Settings?" = "重制设置?";
+"OK" = "继续";
+"Cancel" = "取消";
+
+"PLEASE_PURCHASE" = "请从Packix购买";
+"THANK_YOU_PURCHASE" = "感谢你的购买";
+
+"SHARE_TEXT" = "KillBackground13 :)";
+
+"Open AppStore?" = "打开 App Store?";
+"Yes" = "继续";
+"NO" = "取消";
+"Copy" = "复制";
+
+"Follow on @ichitaso" = "Follow on @ichitaso";
+"Follow on @SAMIF_18" = "Follow on @SAMIF_18";
+
+"Open in Tweetbot" = "在Tweetbot中打开";
+"Open in Twitter" = "在Twitter中打开";
+"Open in Browser" = "在浏览器中打开";
+
+"Kill All Apps" = "关闭全部App";
+"Device locked!" = "设备已锁定";
+"Please unlock device." = "请解锁设备";
+
+"Hide blur Card" = "隐藏白名单卡";
