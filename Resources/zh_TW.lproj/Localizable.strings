@@ -1,0 +1,106 @@
+"Respring is required" = "Respring is required";
+"Cancel" = "Cancel";
+"Respring" = "Respring";
+
+"Settings" = "Settings";
+"SETTINGS_DESC" = "Will display 2 big buttons (left+right) instead of one. (better on the iPad)";
+
+"Auto Close Switcher" = "Auto Close Switcher";
+"Button on the left" = "Button on the left";
+"Center Button" = "Center Button";
+"Big Buttons" = "Big Buttons";
+
+"Whitelist" = "Whitelist";
+"WHITELIST_DESC" = "Switch by Long Press is select Exclude apps by long-press the app on the App Switcher.";
+"Kill Music" = "Kill Music";
+"Switch by Long Press" = "Switch by Long Press";
+
+"System Applications" = "System Applications";
+"User Applications" = "User Applications";
+"Exclude apps" = "Exclude apps";
+"WHITELIST_CARD" = "Adjust the roundness of the whitelisted card.";
+
+"Button Style" = "Button Style";
+"Gray" = "Gray";
+"Skull" = "Skull";
+"Light" = "Light";
+
+"Hide buttons" = "Hide buttons";
+"Button Height-Width" = "Button Height-Width";
+"BUTTON_DESC" = "Please adjust it when the button is hidden etc.";
+
+"default" = "預設";
+"Button Height" = "按鈕長度";
+"Button Width" = "按鈕寬度";
+
+"Swipe down" = "向下滑動";
+"SWIPE_DESC" = "App Switcher Card in Swipe down to execute the action.";
+"Kill with Swipe down" = "向下滑動以關閉選項";
+"Confirm Kill with Swipe down" = "向下滑動關閉應用程式前確認";
+"SCROLL_DESC" = "Adjusts the scroll size when swiping downward.";
+
+"Option" = "選項";
+"OPTION_DESC" = "長按按鈕時執行 URL 形式的尾端
+
+（包括控制中心按鈕以及開關）";
+
+"URL scheme at the end" = "有 URL 形式 於結尾";
+"URL scheme" = "URL 形式";
+"Recommended Apps" = "建議應用程式";
+"APPS_DESC" = "此可以清出記憶體";
+"Copy URL scheme : SySight" = "複製 URL 形式：SySight";
+
+"iPhone X iOS 11 Option" = "iPhone X iOS 11 選項";
+"IXIOS11_DESC" = "總是從應用程式切換器中關閉應用程式";
+"Kill AppSwitcher Card" = "關閉應用程式切換器項目";
+
+"iOS 11 - 12 Option" = "iOS 11 - 12 選項";
+"11_12_OPTION" = "隱藏應用程式切換器之「建議」橫幅
+
+啟用或停用控制中心按鈕後必須重新啟動主畫面以套用設定";
+
+"Hide AppSwitcher Banner" = "隱藏應用程式切換器橫幅";
+"Legacy CC buttons" = "舊版控制中心按鈕";
+
+"Flipswitch" = "開關";
+"FS_DESC" = "啟用或停用開關後必須重新啟動主畫面以套用設定";
+"Legacy FS buttons" = "舊版開關";
+
+"Reset Settings" = "回復預設設定";
+
+"Credit" = "鳴謝";
+"COPYRIGHT" = "此插件基於 Mathieu Bolard （@mattlawer）的插件製作
+
+特別感謝 @Sorega4 以及 @SAMIF_18 設計了圖示！
+
+© 2015 - 2024 Cannathea 組織 ichitaso";
+
+"Developed by ichitaso" = "由 ichitaso 開發";
+"Icon designed by SAMI" = "由 SAMI 設計圖示";
+
+"Reset Settings?" = "回復為預設設定";
+"OK" = "確認";
+"Cancel" = "取消";
+
+"PLEASE_PURCHASE" = "請從 Havoc 中購買";
+"THANK_YOU_PURCHASE" = "感謝購買產品";
+
+"SHARE_TEXT" = "KillBackground13 超級派！";
+
+"Open AppStore?" = "是否開啟 App Store?";
+"Yes" = "確認";
+"NO" = "取消";
+"Copy" = "複製";
+
+"Follow on @ichitaso" = "追蹤 @ichitaso";
+"Follow on @SAMIF_18" = "追蹤 @SAMIF_18";
+
+"Open in Tweetbot" = "開啟 Tweetbot";
+"Open in Twitter" = "開啟 Twitter（X）";
+"Open in Browser" = "於瀏海器中開啟";
+
+"Kill All Apps" = "關閉所有應用程式";
+"Device locked!" = "裝置已鎖定";
+"Please unlock device." = "請解鎖裝置";
+
+"Hide blur Card" = "隱藏鎖定圖示";
