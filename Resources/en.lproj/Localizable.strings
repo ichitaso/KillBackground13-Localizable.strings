@@ -5,20 +5,20 @@
 "Settings" = "Settings";
 "SETTINGS_DESC" = "Will display 2 big buttons (left+right) instead of one. (better on the iPad)";
 
-"Auto Close Switcher" = "Auto Close Switcher";
+"Auto Close Switcher" = "Auto Close the Switcher";
 "Button on the left" = "Button on the left";
 "Center Button" = "Center Button";
 "Big Buttons" = "Big Buttons";
 
 "Whitelist" = "Whitelist";
-"WHITELIST_DESC" = "Switch by Long Press is select Exclude apps by long-press the app on the App Switcher.";
-"Kill Music" = "Kill Music";
-"Switch by Long Press" = "Switch by Long Press";
+"WHITELIST_DESC" = "Long press apps in the App Switcher to temporarily ignore the whitelist and close the targeted app.";
+"Kill Music" = "Kill music apps";
+"Switch by Long Press" = "Long press geature";
 
 "System Applications" = "System Applications";
 "User Applications" = "User Applications";
 "Exclude apps" = "Exclude apps";
-"WHITELIST_CARD" = "Adjust the roundness of the whitelisted card.";
+"WHITELIST_CARD" = "Adjust the radius of the whitelisted card.";
 
 "Button Style" = "Button Style";
 "Gray" = "Gray";
@@ -26,18 +26,18 @@
 "Light" = "Light";
 
 "Hide buttons" = "Hide buttons";
-"Button Height-Width" = "Button Height-Width";
-"BUTTON_DESC" = "Please adjust it when the button is hidden etc.";
+"Button Height-Width" = "Button Size";
+"BUTTON_DESC" = "Only adjust this settings when the button is hidden.";
 
 "default" = "default";
 "Button Height" = "Button Height";
 "Button Width" = "Button Width";
 
 "Swipe down" = "Swipe down";
-"SWIPE_DESC" = "App Switcher Card in Swipe down to execute the action.";
-"Kill with Swipe down" = "Kill with Swipe down";
-"Confirm Kill with Swipe down" = "Confirm Kill with Swipe down";
-"SCROLL_DESC" = "Adjusts the scroll size when swiping downward.";
+"SWIPE_DESC" = "Swipe down to activate action";
+"Kill with Swipe down" = "Kill when swiping down";
+"Confirm Kill with Swipe down" = "Confirm action when activated";
+"SCROLL_DESC" = "Adjusts the scroll length when swiping downward.";
 
 "Option" = "Option";
 "OPTION_DESC" = "If run the button long press, Run the URL scheme at the end.
@@ -51,15 +51,15 @@
 "Copy URL scheme : SySight" = "Copy URL scheme : SySight";
 
 "iPhone X iOS 11 Option" = "iPhone X iOS 11 Option";
-"IXIOS11_DESC" = "Always kills the application from App Switcher.";
-"Kill AppSwitcher Card" = "Kill AppSwitcher Card";
+"IXIOS11_DESC" = "Always kills the application from the App Switcher.";
+"Kill AppSwitcher Card" = "Kill App Switcher Apps";
 
-"iOS 11 - 12 Option" = "iOS 11 - 12 Option";
-"11_12_OPTION" = "Hide Switcher App Suggestion Banner. (Such as headphone connection)
+"iOS 11 - 12 Option" = "iOS 11 - 12 Options";
+"11_12_OPTION" = "Hide Switcher App Suggestion Banner. (Such as headphone connection)";
 
 Respring is required to enable / disable Legacy CC buttons.";
 
-"Hide AppSwitcher Banner" = "Hide AppSwitcher Banner";
+"Hide AppSwitcher Banner" = "Hide App Switcher Banner";
 "Legacy CC buttons" = "Legacy CC buttons";
 
 "Flipswitch" = "Flipswitch";
@@ -68,36 +68,36 @@ Respring is required to enable / disable Legacy CC buttons.";
 
 "Reset Settings" = "Reset Settings";
 
-"Credit" = "Credit";
-"COPYRIGHT" = "Based Tweak by Mathieu Bolard (@mattlawer)
+"Credit" = "Credits";
+"COPYRIGHT" = "Based on Mathieu Bolard (@mattlawer)'s tweak!
 
 Special thanks! Icon designed by @Sorega4 and @SAMIF_18
 
-© 2015 - 2024 Cannathea by ichitaso";
+© 2015 - 2024 Cannathea founded by ichitaso";
 
 "Developed by ichitaso" = "Developed by ichitaso";
 "Icon designed by SAMI" = "Icon designed by SAMI";
 
-"Reset Settings?" = "Reset Settings?";
+"Reset Settings?" = "Do you want to reset settings?";
 "OK" = "OK";
 "Cancel" = "Cancel";
 
-"PLEASE_PURCHASE" = "Please purchase from the Havoc.";
-"THANK_YOU_PURCHASE" = "Thank you for your purchase.";
+"PLEASE_PURCHASE" = "Please purchase from the Havoc repo.";
+"THANK_YOU_PURCHASE" = "Thank you for the purchase.";
 
 "SHARE_TEXT" = "KillBackground13 is dope!";
 
-"Open AppStore?" = "Open AppStore?";
+"Open AppStore?" = "Do you want to open App Store?";
 "Yes" = "Yes";
 "NO" = "NO";
 "Copy" = "Copy";
 
-"Follow on @ichitaso" = "Follow on @ichitaso";
-"Follow on @SAMIF_18" = "Follow on @SAMIF_18";
+"Follow on @ichitaso" = "Follow @ichitaso";
+"Follow on @SAMIF_18" = "Follow @SAMIF_18";
 
 "Open in Tweetbot" = "Open in Tweetbot";
 "Open in Twitter" = "Open in Twitter";
-"Open in Browser" = "Open in Browser";
+"Open in Browser" = "Open in the default browser";
 
 "Kill All Apps" = "Kill All Apps";
 "Device locked!" = "Device locked!";
