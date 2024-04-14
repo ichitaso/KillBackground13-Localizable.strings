@@ -1,33 +1,33 @@
-"Respring is required" = "Respring is required";
-"Cancel" = "Cancel";
-"Respring" = "Respring";
+"Respring is required" = "需要重新啟動主畫面";
+"Cancel" = "取消";
+"Respring" = "重新啟動";
 
-"Settings" = "Settings";
-"SETTINGS_DESC" = "Will display 2 big buttons (left+right) instead of one. (better on the iPad)";
+"Settings" = "設定";
+"SETTINGS_DESC" = "將會顯示左右兩個按鈕，此設定適合 iPad 使用者";
 
-"Auto Close Switcher" = "Auto Close Switcher";
-"Button on the left" = "Button on the left";
-"Center Button" = "Center Button";
-"Big Buttons" = "Big Buttons";
+"Auto Close Switcher" = "自動關閉切換器";
+"Button on the left" = "左按鈕";
+"Center Button" = "中間按鈕";
+"Big Buttons" = "大按鈕";
 
-"Whitelist" = "Whitelist";
-"WHITELIST_DESC" = "Switch by Long Press is select Exclude apps by long-press the app on the App Switcher.";
-"Kill Music" = "Kill Music";
-"Switch by Long Press" = "Switch by Long Press";
+"Whitelist" = "白名單";
+"WHITELIST_DESC" = "長按以暫時關閉白名單中的應用程式像是音樂";
+"Kill Music" = "關閉音樂";
+"Switch by Long Press" = "長按以切換";
 
-"System Applications" = "System Applications";
-"User Applications" = "User Applications";
-"Exclude apps" = "Exclude apps";
-"WHITELIST_CARD" = "Adjust the roundness of the whitelisted card.";
+"System Applications" = "系統應用程式";
+"User Applications" = "使用者應用程式";
+"Exclude apps" = "排除應用程式";
+"WHITELIST_CARD" = "調整白名單應用程式在切換器中的邊角彎度";
 
-"Button Style" = "Button Style";
-"Gray" = "Gray";
-"Skull" = "Skull";
-"Light" = "Light";
+"Button Style" = "按鈕風格";
+"Gray" = "灰色";
+"Skull" = "頭骨";
+"Light" = "亮色";
 
-"Hide buttons" = "Hide buttons";
-"Button Height-Width" = "Button Height-Width";
-"BUTTON_DESC" = "Please adjust it when the button is hidden etc.";
+"Hide buttons" = "隱藏按鈕";
+"Button Height-Width" = "按鈕大小";
+"BUTTON_DESC" = "請隱藏按鈕後再改變此設定";
 
 "default" = "預設";
 "Button Height" = "按鈕長度";
