@@ -104,3 +104,11 @@ Special thanks! Icon designed by @Sorega4 and @SAMIF_18
 "Please unlock device." = "デバイスのロックを解除してください。";
 
 "Hide blur Card" = "ロック画像を非表示";
+"Hide Loading View" = "読み込みビューを非表示";
+
+"Support" = "サポート";
+"Email Support" = "メールサポート";
+"Follow ichitaso" = "ichitaso をフォロー";
+"Open in Bluesky" = "Bluesky で開く";
+"Email is not set" = "メールが設定されていません";
+"Please set your Email in the Settings app." = "設定アプリでメールを設定してください。";

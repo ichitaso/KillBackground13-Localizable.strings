@@ -103,3 +103,11 @@ Legacy CC düğmelerini etkinleştirmek / devre dışı bırakmak için respring
 "Please unlock device." = "Lütfen Cihazın Kilidini Aç.";
 
 "Hide blur Card" = "Bulanıklaştırma Kartını gizle";
+"Hide Loading View" = "Yükleme görünümünü gizle";
+
+"Support" = "Destek";
+"Email Support" = "E-posta Desteği";
+"Follow ichitaso" = "ichitaso'yu takip et";
+"Open in Bluesky" = "Bluesky'de aç";
+"Email is not set" = "E-posta ayarlanmadı";
+"Please set your Email in the Settings app." = "Lütfen Ayarlar uygulamasında e-postanızı ayarlayın.";
