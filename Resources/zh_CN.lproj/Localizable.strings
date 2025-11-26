@@ -112,3 +112,10 @@
 "Open in Bluesky" = "在 Bluesky 中打开";
 "Email is not set" = "未设置电子邮件";
 "Please set your Email in the Settings app." = "请在设置应用中设置您的电子邮件。";
+
+"AUTH" = "感谢您的购买。\n请在网络良好的环境下激活您的许可证。\n不支持 Cydia；请确保您已登录通过 Zebra、Sileo 等购买的 Havoc 账户。\n如果一切正常，将会在 Respring 后生效。\n请在网络环境良好的地方进行身份验证。\n如果仍未解决，请通过包管理器或设置应用发送电子邮件。";
+"Close" = "关闭";
+"Open Havoc" = "打开 Havoc";
+"Copy message" = "复制信息";
+"Respring" = "Respring";
+

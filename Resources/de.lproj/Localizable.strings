@@ -110,3 +110,10 @@ Großer Dank! Logo von @Sorega4 und @SAMIF_18 entworfen
 "Open in Bluesky" = "In Bluesky öffnen";
 "Email is not set" = "E-Mail ist nicht festgelegt";
 "Please set your Email in the Settings app." = "Bitte legen Sie Ihre E-Mail in der Einstellungen-App fest.";
+
+"AUTH" = "Vielen Dank für Ihren Kauf.\nBitte aktivieren Sie Ihre Lizenz an einem Ort mit guter Internetverbindung.\nCydia wird nicht unterstützt; stellen Sie sicher, dass Sie mit Ihrem Havoc-Konto angemeldet sind, das Sie über Zebra, Sileo usw. verwendet haben.\nWenn alles in Ordnung ist, wird es nach einem Respring wirksam.\nBitte führen Sie die Authentifizierung an einem Ort mit guter Internetverbindung durch.\nWenn das Problem weiterhin besteht, senden Sie bitte eine E-Mail über den Paketmanager oder die Einstellungen.";
+"Close" = "Schließen";
+"Open Havoc" = "Havoc öffnen";
+"Copy message" = "Nachricht kopieren";
+"Respring" = "Respring";
+

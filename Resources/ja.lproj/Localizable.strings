@@ -112,3 +112,9 @@ Special thanks! Icon designed by @Sorega4 and @SAMIF_18
 "Open in Bluesky" = "Bluesky で開く";
 "Email is not set" = "メールが設定されていません";
 "Please set your Email in the Settings app." = "設定アプリでメールを設定してください。";
+
+"AUTH" = "ご購入ありがとうございます。\nインターネット環境の良い場所でライセンスを有効化してください。\nCydia はサポートされていません。Zebra、Sileo などから購入した Havoc アカウントにログインしていることを確認してください。\n問題がなければ、Respring 後に反映されます。\n認証はインターネット環境の良い場所で行ってください。\n改善しない場合は、パッケージマネージャーまたは設定からメールを送信してください。";
+"Close" = "閉じる";
+"Open Havoc" = "Havoc を開く";
+"Copy message" = "メッセージをコピー";
+"Respring" = "Respring";

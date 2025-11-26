@@ -111,3 +111,9 @@ Legacy CC düğmelerini etkinleştirmek / devre dışı bırakmak için respring
 "Open in Bluesky" = "Bluesky'de aç";
 "Email is not set" = "E-posta ayarlanmadı";
 "Please set your Email in the Settings app." = "Lütfen Ayarlar uygulamasında e-postanızı ayarlayın.";
+
+"AUTH" = "Satın aldığınız için teşekkür ederiz.\nLütfen lisansınızı iyi internet erişimi olan bir yerde etkinleştirin.\nCydia desteklenmemektedir; lütfen Zebra, Sileo vb. üzerinden satın aldığınız Havoc hesabınıza giriş yaptığınızdan emin olun.\nHer şey yolundaysa, Respring işleminden sonra etkili olacaktır.\nLütfen kimlik doğrulamayı iyi bir internet bağlantısına sahip bir yerde gerçekleştirin.\nSorun çözülmezse, paket yöneticisi veya Ayarlar üzerinden e-posta gönderin.";
+"Close" = "Kapat";
+"Open Havoc" = "Havoc'u Aç";
+"Copy message" = "Mesajı kopyala";
+"Respring" = "Respring";

@@ -111,3 +111,9 @@ Chân thành cảm ơn! Biểu tượng thiết kế bởi @Sorega4 và @SAMIF_1
 "Open in Bluesky" = "Mở trong Bluesky";
 "Email is not set" = "Email chưa được thiết lập";
 "Please set your Email in the Settings app." = "Vui lòng thiết lập Email của bạn trong ứng dụng Cài đặt.";
+
+"AUTH" = "Cảm ơn bạn đã mua hàng.\nVui lòng kích hoạt giấy phép ở nơi có kết nối Internet tốt.\nCydia không được hỗ trợ; hãy đảm bảo bạn đã đăng nhập vào tài khoản Havoc được sử dụng để mua qua Zebra, Sileo, v.v.\nNếu mọi thứ ổn, thay đổi sẽ có hiệu lực sau Respring.\nVui lòng thực hiện xác thực ở nơi có kết nối Internet tốt.\nNếu vẫn không được, vui lòng gửi email thông qua trình quản lý gói hoặc ứng dụng Cài đặt.";
+"Close" = "Đóng";
+"Open Havoc" = "Mở Havoc";
+"Copy message" = "Sao chép tin nhắn";
+"Respring" = "Respring";

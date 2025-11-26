@@ -111,3 +111,9 @@ Remerciement spécial! Icône conçue par @Sorega4 et @SAMIF_18
 "Open in Bluesky" = "Ouvrir dans Bluesky";
 "Email is not set" = "L’e-mail n’est pas défini";
 "Please set your Email in the Settings app." = "Veuillez définir votre e-mail dans l’application Réglages.";
+
+"AUTH" = "Merci pour votre achat.\nVeuillez activer votre licence dans un endroit disposant d’une bonne connexion Internet.\nCydia n’est pas pris en charge ; assurez-vous d’être connecté à votre compte Havoc utilisé pour l’achat via Zebra, Sileo, etc.\nSi tout est correct, cela prendra effet après un Respring.\nVeuillez effectuer l’authentification dans un endroit avec une bonne connexion Internet.\nSi le problème persiste, veuillez envoyer un e-mail via le gestionnaire de paquets ou les Réglages.";
+"Close" = "Fermer";
+"Open Havoc" = "Ouvrir Havoc";
+"Copy message" = "Copier le message";
+"Respring" = "Respring";

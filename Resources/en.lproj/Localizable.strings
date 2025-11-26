@@ -113,3 +113,8 @@ Special thanks! Icon designed by @Sorega4 and @SAMIF_18
 "Email is not set" = "Email is not set";
 "Please set your Email in the Settings app." = "Please set your Email in the Settings app.";
 
+"AUTH" = "Thank you for your purchase.\nPlease activate your license where you have good internet access.\nCydia is not supported; make sure you are logged into your Havoc account purchased from Zebra, Sileo, etc.\nIf all is well, it will take effect after Respring.\nPlease do so in a place with a good Internet environment for authentication.\nIf it is not corrected, please send an email through the package manager or　Settings.";
+"Close" = "Close";
+"Open Havoc" = "Open Havoc";
+"Copy message" = "Copy message";
+"Respring" = "Respring";
