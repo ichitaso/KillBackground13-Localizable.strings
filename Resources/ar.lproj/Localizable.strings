@@ -1,18 +1,19 @@
-"Respring is required" = "يتطلب ريسبرنج";
+"Respring is required" = "يتطلب إعادة التشغيل السريع";
 "Cancel" = "إلغاء";
-"Respring" = "ريسبرنج";
+"Respring" = "إعادة التشغيل السريع";
 
 "Settings" = "الإعدادات";
-"SETTINGS_DESC" = "سيتم عرض زرين كبيرين (يسار+يمين) بدلًا من واحد. (أفضل على iPad)";
-
+"SETTINGS_DESC" = "سيتم عرض زرين كبيرين (واحد على اليمين وواحد على اليسار) بدلًا من زر واحد فقط. (خيار مفضل على أجهزة الـ iPad)";
+,
 "Auto Close Switcher" = "إغلاق المبدل تلقائيًا";
 "Button on the left" = "زر على اليسار";
+"Center Button" = "زر في المنتصف";
 "Big Buttons" = "أزرار كبيرة";
 
 "Whitelist" = "القائمة البيضاء";
-"WHITELIST_DESC" = "التبديل بواسطة الضغط المطول هو تحديد تطبيقات مستثناة عن طريق الضغط مطولًا على التطبيق في مبدل التطبيقات.";
-"Kill Music" = "إغلاق الموسيقى";
-"Switch by Long Press" = "التبديل بواسطة الضغط المطول";
+"WHITELIST_DESC" = "اضغط مطولًا على التطبيقات في مبدل التطبيقات لعدم إغلاق تطبيقات القائمة البيضاء وإغلاق البقية.";
+"Kill Music" = "إغلاق تطبيقات الموسيقى";
+"Switch by Long Press" = "التبديل بالضغط المطول";
 
 "System Applications" = "تطبيقات النظام";
 "User Applications" = "تطبيقات المستخدم";
@@ -25,17 +26,17 @@
 "Light" = "مضيء";
 
 "Hide buttons" = "إخفاء الأزرار";
-"Button Height-Width" = "ارتفاع-عرض الزر";
-"BUTTON_DESC" = "يرجى ضبطه عندما يكون الزر مخفيًا إلخ.";
+"Button Height-Width" = "حجم الزر";
+"BUTTON_DESC" = "قم بإعداد هذا الخيار عند تفعيل ميزة إخفاء الأزرار فقط.";
 
 "default" = "افتراضي";
 "Button Height" = "ارتفاع الزر";
 "Button Width" = "عرض الزر";
 
-"Swipe down" = "السحب للأسفل";
-"SWIPE_DESC" = "بطاقة مبدل التطبيقات في السحب للأسفل لتنفيذ الإجراء.";
-"Kill with Swipe down" = "إغلاق مع السحب للأسفل";
-"Confirm Kill with Swipe down" = "تأكيد الإغلاق مع السحب للأسفل";
+"Swipe down" = "السحب لأسفل";
+"SWIPE_DESC" = "اسحب للأسفل لتنشيط الإجراء";
+"Kill with Swipe down" = "إغلاق عند السحب للأسفل";
+"Confirm Kill with Swipe down" = "تأكيد الإغلاق عند السحب للأسفل";
 "SCROLL_DESC" = "اضبط حجم التمرير عند السحب للأسفل.";
 
 "Option" = "خيار";
@@ -46,47 +47,47 @@
 "URL scheme at the end" = "مخطط عنوان URL في النهاية";
 "URL scheme" = "مخطط عنوان URL";
 "Recommended Apps" = "تطبيقات موصى بها";
-"APPS_DESC" = "هذه تطبيقات تنظيف ذاكرة صالحة للغاية.";
+"APPS_DESC" = "هذه تطبيقات تنظيف ذاكرة مفيدة جدًا.";
 "Copy URL scheme : SySight" = "نسخ مخطط عنوان URL : SySight";
 
-"iPhone X iOS 11 Option" = "خيار iPhone X iOS 11";
-"IXIOS11_DESC" = "إغلاق التطبيقات دائمًا من مبدل التطبيقات.";
-"Kill AppSwitcher Card" = "إغلاق بطاقة مبدل التطبيقات";
+"iPhone X iOS 11 Option" = "خيار لـ iPhone X على iOS 11";
+"IXIOS11_DESC" = "إغلاق التطبيق دائمًا من مبدل التطبيقات.";
+"Kill AppSwitcher Card" = "إغلاق تطبيقات مبدل التطبيقات";
 
-"iOS 11 - 12 Option" = "خيار iOS 11 - 12";
-"11_12_OPTION" = "إخفاء شعار اقتراح تطبيق المبدل. (كعندما تكون سماعة الرأس متصلة)
+"iOS 11 - 12 Option" = "خيارات لـ iOS 11 و iOS 12";
+"11_12_OPTION" = "إخفاء خانة التطبيق المقترح. (الخانة التي تظهر عندما تكون سماعة الرأس متصلة مثلًا)
 
-‎يتطلب ريسبرنج لتفعيل / تعطيل أزرار مركز التحكم القديمة.";
+‎يتطلب إعادة التشغيل السريع لتفعيل/تعطيل أزرار مركز التحكم القديمة.";
 
-"Hide AppSwitcher Banner" = "إخفاء شعار مبدل التطبيقات";
+"Hide AppSwitcher Banner" = "إخفاء خانة اقتراح مبدل التطبيقات";
 "Legacy CC buttons" = "أزرار مركز التحكم القديمة";
 
 "Flipswitch" = "Flipswitch";
-"FS_DESC" = "يتطلب ريسبرنج لتفعيل / تعطيل أزرار Flipswitch القديمة.";
-"Legacy FS buttons" = "أزرار Flipswitch القديمة";
+"FS_DESC" = "يتطلب إعادة التشغيل السريع لتفعيل/تعطيل أزرار Flipswitch القديمة.";
+"Legacy FS buttons" = "أزرار FS القديمة";
 
 "Reset Settings" = "إعادة تعيين الإعدادات";
 
-"Credit" = "الاعتمادات";
-"COPYRIGHT" = "الأداة تم تأسيسها بواسطة Mathieu Bolard (@mattlawer)
+"Credit" = "المساهمات والحقوق";
+"COPYRIGHT" = "تم الاستناد على أداة ماثيو بولارد (mattlawer@)!";
 
-شكر خاص! الأيقونة تم تصميمها بواسطة @Sorega4 and @sam6i
+شكر خاص! أيقونة الأداة مصممة بواسطة Sorega4@ و sam6i@
 
-© 2015 - 2026 Cannathea بواسطة ichitaso";
+© ٢٠١٥ - ٢٠٢٦ Cannathea، تأسست بواسطة ichitaso";
 
-"Developed by ichitaso" = "مطورة من قبل ichitaso";
-"Icon designed by SAMI" = "أيقونة مصممة من قبل SAMI";
+"Developed by ichitaso" = "تم التطوير من قِبل ichitaso";
+"Icon designed by SAMI" = "تصميم الأيقونة من SAMI";
 
-"Reset Settings?" = "إعادة تعيين الإعدادات؟";
+"Reset Settings?" = "هل تريد إعادة تعيين الإعدادات؟";
 "OK" = "حسنًا";
 "Cancel" = "إلغاء";
 
-"PLEASE_PURCHASE" = "يرجى الشراء من Havoc.";
-"THANK_YOU_PURCHASE" = "شكرًا لشرائك.";
+"PLEASE_PURCHASE" = "يرجى الشراء من مستودع Havoc.";
+"THANK_YOU_PURCHASE" = "شكرًا على الشراء.";
 
-"SHARE_TEXT" = "KillBackground13 رائعة!";
+"SHARE_TEXT" = "إغلاق تطبيقات الخلفية دفعة واحدة ببراعة على iOS 13 إلى iOS 26! #KillBackground13";
 
-"Open AppStore?" = "فتح AppStore؟";
+"Open AppStore?" = "هل تريد فتح App Store؟";
 "Yes" = "نعم";
 "NO" = "لا";
 "Copy" = "نسخ";
@@ -95,24 +96,25 @@
 "Follow on @SAMIF_18" = "تابع @sam6i";
 
 "Open in Tweetbot" = "فتح في Tweetbot";
-"Open in Twitter" = "فتح في Twitter";
+"Open in Twitter" = "فتح في تويتر";
 "Open in Browser" = "فتح في المتصفح";
 
 "Kill All Apps" = "إغلاق كل التطبيقات";
 "Device locked!" = "الجهاز مقفل!";
 "Please unlock device." = "يرجى فتح قفل الجهاز.";
 
-"Hide blur Card" = "إخفاء بطاقة طمس";
-"Hide Loading View" = "إخفاء عرض التحميل";
+"Hide blur Card" = "إخفاء قفل الصورة";
+"Hide Loading View" = "إخفاء منظر التحميل";
+
 "Support" = "الدعم";
-"Email Support" = "دعم البريد الإلكتروني";
+"Email Support" = "الدعم عبر البريد الإلكتروني";
 "Follow ichitaso" = "متابعة ichitaso";
-"Open in Bluesky" = "افتح في Bluesky";
+"Open in Bluesky" = "فتح في Bluesky";
 "Email is not set" = "لم يتم تعيين البريد الإلكتروني";
 "Please set your Email in the Settings app." = "يرجى تعيين بريدك الإلكتروني في تطبيق الإعدادات.";
 
-"AUTH" = "شكرًا لشرائك.\nيرجى تفعيل الترخيص في مكان تتوفر فيه خدمة إنترنت جيدة.\nCydia غير مدعوم؛ تأكد من أنك مسجّل الدخول إلى حساب Havoc الذي اشتريت منه عبر Zebra أو Sileo وغيرها.\nإذا كان كل شيء على ما يرام، سيتم تطبيقه بعد إعادة تشغيل الواجهة (Respring).\nيرجى القيام بذلك في مكان يتمتع ببيئة إنترنت جيدة للمصادقة.\nإذا لم يتم حل المشكلة، يرجى إرسال بريد إلكتروني عبر مدير الحزم أو الإعدادات.";
+"AUTH" = "شكرًا لشرائك.\nيفضل تفعيل الترخيص عندما يكون لديك وصول جيد للإنترنت.\nCydia غير مدعوم؛ تأكد من أنك مسجّل الدخول إلى حساب Havoc الذي اشتريت منه عبر Zebra أو Sileo أو أي مدير حزم آخر.\nإذا كان كل شيء على ما يرام، سيتم تطبيق التغييرات بعد إعادة التشغيل السريع.\nيرجى القيام بذلك في مكان يتمتع ببيئة إنترنت جيدة للمصادقة.\nإذا لم يتم حل المشكلة، يرجى إرسال بريد إلكتروني عبر مدير الحزم أو الإعدادات.";
 "Close" = "إغلاق";
 "Open Havoc" = "فتح Havoc";
 "Copy message" = "نسخ الرسالة";
-"Respring" = "إعادة تشغيل الواجهة";
+"Respring" = "إعادة التشغيل السريع";
